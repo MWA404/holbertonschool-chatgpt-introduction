@@ -2,7 +2,7 @@
 import sys
 
 def factorial(n):
-     """
+    """
     Computes the factorial of a given number recursively.
     For example, factorial(5) returns 120 because 5 * 4 * 3 * 2 * 1 = 120.
 
